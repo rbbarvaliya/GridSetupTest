@@ -8,7 +8,7 @@ public class test {
 		int a = 10;
 		int b = 20;
 		
-		System.out.println(a+b);
+		System.out.println("sum of and b:"+(a+b));
 				
 
 
