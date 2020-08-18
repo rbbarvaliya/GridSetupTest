@@ -1,0 +1,12 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FREE CRM application test automation Test Suite">
+
+ 	<test name="Grid Test Cases">
+		 <classes>
+ 			<class name="GridTests.ChromeGridTest" />
+ 		    <class name="GridTests.FirefoxGridTest" />
+            
+ 		</classes>
+ 	</test>
+</suite>
